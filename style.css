@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#canvas {
+  display: block;
+  /* height: 100vh;
+  width: 100vw;   canvas一开始的宽高默认为300px和150px，如果强行改变，它会直接拉伸*/
+}
